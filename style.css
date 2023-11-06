@@ -1,0 +1,21 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+.card{
+    height: 300px;
+    width: 20%;
+    background-color:ghostwhite;
+    box-shadow: 10px 5px 5px rgb(194,197,204);
+    border-radius: 15px; 
+}
+
+.gallery {
+    display: flex;
+}
